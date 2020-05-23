@@ -19,6 +19,15 @@ body{
     top: 7px;
     
 }
+hr{
+    border-style: dotted dotted none ;
+    height: 2px;
+    border-color: rgb(180, 180, 180);
+    width: 9%;
+    border-width: 9px;
+    margin-top: 47px;
+    margin-bottom: 47px;
+}
     
 
 }
@@ -49,7 +58,7 @@ h3{
 .bottomclouds{
     position: absolute;
     left: 10vw;
-    bottom: 560px;
+    bottom: 645px;
 }
 .topclouds{
     position: absolute;
@@ -59,7 +68,7 @@ h3{
 .Title{
     padding-bottom: 10vw;
     font-family: 'Sacramento', cursive;
-    font-size: 170.5%;
+    font-size: 213%;
 }
 .profilepic{
     width: 158px;
@@ -73,6 +82,18 @@ img.Engineering{
     background-color: #e4f9f5;
     border-radius: 165px;
     padding: 0px;
+}
+.violin{
+    width: 228px;
+   
+    border-radius: 165px;
+    padding: 0px;
+
+
+}
+p{
+    color: black;
+}
 
 
 
