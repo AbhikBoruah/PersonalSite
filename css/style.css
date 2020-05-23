@@ -1,0 +1,78 @@
+.top-container{
+    
+    background-color: #e4f9f5;
+    text-align: center;
+    padding-top:128px ;
+    
+    
+
+}
+body{
+    margin: 0px;
+    color: rgba(46, 185, 33, 0.507);
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.mountain{
+    width: 91vw;
+    position: relative;
+    top: 7px;
+    
+}
+    
+
+}
+h1{
+    color: #66BFBF;
+    font-size: 562.5%;
+    margin: 50px auto 0 auto;
+   
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.middle-container{
+    padding-top: 10px;
+    margin-top: 50px;
+    
+}
+.bottom-container{
+    
+}
+.clouds{
+    width: 10vw;
+}
+
+.bottomclouds{
+    position: absolute;
+    left: 10vw;
+    bottom: 560px;
+}
+.topclouds{
+    position: absolute;
+    right: 43px;
+    top: 56px;
+}
+.Title{
+    padding-bottom: 10vw;
+    font-family: 'Sacramento', cursive;
+    font-size: 170.5%;
+}
+.profilepic{
+    width: 158px;
+    border-radius: 85px;
+    background-color: #e4f9f5;
+    padding: 10px;
+}
+img.Engineering{
+
+    width: 228px;
+    background-color: #e4f9f5;
+    border-radius: 165px;
+    padding: 0px;
+
+
+
