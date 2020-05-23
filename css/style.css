@@ -75,7 +75,7 @@ h3{
 .profilepic{
     width: 158px;
     border-radius: 85px;
-    background-color: #e4f9f5;
+    
     padding: 10px;
 }
 img.Engineering{
@@ -114,12 +114,23 @@ p{
 margin-bottom: 100px;
 }
 .bio{
-line-height: 2;
-width: 50%;
-margin: 10px auto 10px auto;
-padding-bottom: 65px;
-}
 
+}
+.hobs{
+    width: 50%;
+    margin: 20px auto 20px auto;
+    line-height: 2;
+    width: 50%;
+    margin: 10px auto 10px auto;
+    padding-bottom: 65px;
+}
+.codinghobby{
+    float: left;
+    width: 228px;
+    margin-top: -43px;
+    margin-right: -12px;
+    margin-left: 0px;
+}
 
 
 
