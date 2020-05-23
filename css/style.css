@@ -14,7 +14,7 @@ body{
     font-family: 'Merriweather', serif;
 }
 .mountain{
-    width: 91vw;
+    width: 73vw;
     position: relative;
     top: 7px;
     
@@ -49,7 +49,9 @@ h3{
     
 }
 .bottom-container{
-    
+    background-color: #e4f9f5;
+    margin-bottom: -30px;
+    height: 90px;
 }
 .clouds{
     width: 10vw;
@@ -78,14 +80,17 @@ h3{
 }
 img.Engineering{
 
-    width: 228px;
+    width: 200px;
     background-color: #e4f9f5;
     border-radius: 165px;
     padding: 0px;
+    float: left;
+    margin-right: 25px;
+
 }
 .violin{
     width: 228px;
-   
+    float: right;
     border-radius: 165px;
     padding: 0px;
 
@@ -94,6 +99,15 @@ img.Engineering{
 p{
     color: black;
 }
+.skill-row{
+    width:50%;
+    margin: 100px auto 130px auto;
+    text-align: left;
+    line-height:2 ;
+    margin-bottom: 130px;
+}
+}
+
 
 
 
