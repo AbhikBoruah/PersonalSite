@@ -2,6 +2,8 @@
 
 body{
     margin: 0px;
+    background-image: url(../images/back.gif);
+    background-repeat: repeat-x-y;
     color: rgba(46, 185, 33, 0.507);
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -16,7 +18,7 @@ hr{
     margin-bottom: 47px;
 }
 h1{
-    color: #66BFBF;
+    color: #fff;
     font-size: 280.5%;
     margin: 50px auto 0 auto;
    
@@ -27,11 +29,16 @@ h2{
 h3{
     font-family: 'Montserrat', sans-serif;
 }
+nav .nav-link a{
+    color: cornsilk;
+    
+}
 
 /* Top container */
 .top-container{
     
-    background-color: #e4f9f5;
+    background-image: url(../images/back.gif);
+    background-repeat: repeat-x-y;
     text-align: center;
     padding-top:128px ;
     
@@ -39,7 +46,7 @@ h3{
 
 }
 .mountain{
-    width: 73vw;
+    width: 41vw;
     position: relative;
     top: 3px;
     
@@ -64,6 +71,7 @@ h3{
     font-size: 213%;
 }
 
+
     
 
 
@@ -72,6 +80,8 @@ h3{
 
 /*-------- middle container-------- */
 .middle-container{
+    background-image: url(../images/back.gif);
+    background-repeat: repeat-x-y;
     padding-top: 10px;
     margin-top: 50px;
     
@@ -111,7 +121,7 @@ img.Engineering{
 
 }
 p{
-    color: black;
+    color: rgb(255, 255, 255);
 }
 .skill-row{
     width:50%;
@@ -179,6 +189,10 @@ margin-bottom: 100px;
     text-decoration: none;
   }
   /* ----------bottom container------------- */
+  .bottom-container{
+    background-image: url(../images/back.gif);
+  }
+  
   .footer-link{
       margin: 10px 20px;
   }
@@ -191,12 +205,18 @@ margin-bottom: 100px;
       padding: 20px 0px;
   }
 .roop{
-    background-color:#e4f9f5 ;
+    background-image: url(../images/back.gif);
+    background-repeat: repeat-x;
 }
 .logo{
     border-radius: 424px;
     width: 67px;
 }
+
+/* btn */
+
+
+
 
 
 
