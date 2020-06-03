@@ -155,7 +155,7 @@ margin-bottom: 100px;
     margin-left: 0px;
 }
 .para{
-    text-align: left;
+    text-align: center;
 }
 .contact-message{
     width: 40%;
@@ -212,6 +212,10 @@ margin-bottom: 100px;
     border-radius: 424px;
     width: 67px;
 }
+.ml3 {
+    font-weight: 900;
+    font-size: 3.5em;
+  }
 
 /* btn */
 
