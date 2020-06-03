@@ -25,6 +25,7 @@ h1{
 }
 h2{
     font-family: 'Montserrat', sans-serif;
+    margin-top: 100px;
 }
 h3{
     font-family: 'Montserrat', sans-serif;
@@ -136,6 +137,10 @@ p{
 .topcontainer-end{
 margin-bottom: 100px;
 }
+
+.anthem-image{
+    padding-right: 25px;
+}
 .bio{
 
 }
@@ -212,12 +217,23 @@ margin-bottom: 100px;
     border-radius: 424px;
     width: 67px;
 }
-.ml3 {
-    font-weight: 900;
-    font-size: 3.5em;
-  }
+.rocket{
+    position: absolute;
+    left: 530px;
+    padding-right: 10px;
+    margin-right: 1px;
+    width: 369px;
+}
+.rocket-line{
+    padding-bottom: 50px;
+}
 
-/* btn */
+@media only screen and (max-width: 600px) {
+    .rocket{
+      position: absolute;
+      left: 25px;
+    }
+}
 
 
 
